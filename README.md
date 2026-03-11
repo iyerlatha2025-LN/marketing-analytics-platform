@@ -332,3 +332,12 @@ patient engagement, treatment response stratification, and clinical trial design
 
 *M.S. Business Analytics · University of Louisville · Latha Iyer*  
 *github.com/lathaiyer/marketing-analytics-platform*
+
+
+notepad "C:\Users\latha\marketing-analytics-platform-\README.md"
+```
+
+Find the **Overview** section and add these two lines right after it:
+```
+📄 [Campaign Effectiveness One-Pager](docs/Campaign_Effectiveness_OnePager.pdf)  
+📊 [Executive Analytics Briefing](docs/Executive_Analytics_BriefingVF.pptx)
